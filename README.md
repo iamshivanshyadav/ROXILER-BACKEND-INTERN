@@ -26,7 +26,7 @@ This is a RESTful API for managing sales data. It allows users to initialize the
 - **Parameters:**
   - `search`: Search query to filter transactions (optional)
   - `month`: Month to filter transactions (optional)
-- **Example:** `http://localhost:3000/transactions?search=silicon&month=January`
+- **Example:** `http://localhost:3000/transactions?search=Mens&month=July`
 
 ### Fetch Statistics
 
